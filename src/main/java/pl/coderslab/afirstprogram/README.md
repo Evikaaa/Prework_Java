@@ -1,5 +1,3 @@
-EWA BUDNA
-
 Pamiętaj, aby rozwiązania do zadań umieszczać w odpowiednich plikach `java`, przygotowanych do zadań.  
 
 ## Zadanie 1
